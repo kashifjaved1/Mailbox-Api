@@ -1,0 +1,8 @@
+{
+  "AllowedDomains": [
+    "mail.com",
+    "mail.co",
+    "mail.net",
+    "mail.pk"
+  ]
+}
